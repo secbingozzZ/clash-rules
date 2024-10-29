@@ -1,9 +1,3 @@
-DOMAIN-SUFFIX,cpolar.top
-DOMAIN-SUFFIX,ashuiai.com
-DOMAIN-SUFFIX,xiabb.chat
-DOMAIN-SUFFIX,natfrp.cloud
-DOMAIN-KEYWORD,natfrp
-IP-CIDR,38.147.171.169/32
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
@@ -15,9 +9,17 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
+DOMAIN-SUFFIX,cpolar.top
+DOMAIN-SUFFIX,ashuiai.com
+DOMAIN-SUFFIX,xiabb.chat
+DOMAIN-SUFFIX,natfrp.cloud
+DOMAIN-KEYWORD,natfrp
+IP-CIDR,38.147.171.169/32
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+
 
 
 # 360
