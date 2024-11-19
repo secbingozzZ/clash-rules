@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,services.googleapis.cn
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
