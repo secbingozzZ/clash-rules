@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,dl.google.com
+DOMAIN,dl.google.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
