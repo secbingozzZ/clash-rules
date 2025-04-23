@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,us.vveai.com
 DOMAIN-SUFFIX,run.v36.cm
 DOMAIN-SUFFIX,cf.v36.cm
 DOMAIN,dl.google.com
-DOMAIN-SUFFIX,ylsyz1.com
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
