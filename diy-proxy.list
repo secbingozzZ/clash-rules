@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,api.v3.cm
 DOMAIN-SUFFIX,us.vveai.com
 DOMAIN-SUFFIX,run.v36.cm
 DOMAIN-SUFFIX,cf.v36.cm
+DOMAIN-KEYWORD,closechat
 DOMAIN,dl.google.com
 
 # 国外DNS
