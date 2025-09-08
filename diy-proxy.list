@@ -4,13 +4,13 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,visualstudio.com
 #DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,api.gpt.ge
-DOMAIN-SUFFIX,api.v3.cm
+api.v3.cm
 DOMAIN-SUFFIX,us.vveai.com
 DOMAIN-SUFFIX,run.v36.cm
 DOMAIN-SUFFIX,cf.v36.cm
 DOMAIN-KEYWORD,closechat
 DOMAIN,dl.google.com
-
+DOMAIN-SUFFIX,app.csg.cn
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
@@ -30,3 +30,4 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
