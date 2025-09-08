@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,run.v36.cm
 DOMAIN-SUFFIX,cf.v36.cm
 DOMAIN-KEYWORD,closechat
 DOMAIN,dl.google.com
-DOMAIN-SUFFIX,app.csg.cn
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
