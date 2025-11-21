@@ -4,9 +4,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
-
+DOMAIN-KEYWORD,cloud.zed
 # 域名后缀匹配
-DOMAIN-SUFFIX,cloud.zed.dev
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
