@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,hvoy.ai
 DOMAIN-SUFFIX,gpt.ge
 DOMAIN-SUFFIX,ntp.org
 DOMAIN,ntp-bootstrap.ubuntu.com
+DOMAIN-SUFFIX, ntp.ubuntu.com
