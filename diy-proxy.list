@@ -12,6 +12,7 @@ DOMAIN,dl.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.com
+DOMAIN-SUFFIX,api.vveai.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
